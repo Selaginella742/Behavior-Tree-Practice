@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SchoolProjects\\BehaviorTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\actions\\attack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\actions\\attack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|c:\\schoolprojects\\behaviortree\\assets\\scripts\\mybt\\mybtnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\mybtnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\actions\\heavyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\actions\\heavyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\randomselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\randomselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\practicebt\\btconditionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\practicebt\\btconditionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\actions\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\actions\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\actions\\attack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\actions\\attack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|C:\\SchoolProjects\\BehaviorTree\\assets\\scripts\\mybt\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CD3276-9222-1485-3CC4-7136E5AECB63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybt\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sequence.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Sequence.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Sequence.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Sequence.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Sequence.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:37:06.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeavyAttack.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\HeavyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Actions\\HeavyAttack.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\HeavyAttack.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Actions\\HeavyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:21:57.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Guard.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Actions\\Guard.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Guard.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Actions\\Guard.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:50:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Attack2.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Attack2.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Actions\\Attack2.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Attack2.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Actions\\Attack2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:13:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attack1.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Attack1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Actions\\Attack1.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Actions\\Attack1.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Actions\\Attack1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:09:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomSelector.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\RandomSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\RandomSelector.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\RandomSelector.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\RandomSelector.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:04:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BTConditionFilter.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\practiceBT\\BTConditionFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\practiceBT\\BTConditionFilter.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\practiceBT\\BTConditionFilter.cs",
+              "RelativeToolTip": "Assets\\scripts\\practiceBT\\BTConditionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:44:24.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EnemyBehavior.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\scripts\\EnemyBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:23:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Selector.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\Selector.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\Selector.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\Selector.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:05:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBTNode.cs",
+              "DocumentMoniker": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\MyBTNode.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MyBT\\MyBTNode.cs",
+              "ToolTip": "C:\\SchoolProjects\\BehaviorTree\\Assets\\scripts\\MyBT\\MyBTNode.cs",
+              "RelativeToolTip": "Assets\\scripts\\MyBT\\MyBTNode.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAQwK4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:18:31.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
